@@ -47,18 +47,6 @@ arreglar-ho.
   - Ens agrada molt usar Bootstrap. Afegeix el següent codi html just abans del
     `<body>` en els fitxers `exe1.html` i `exe2.html`, adaptant el `?` a cada
     un d'ells amb el número corresponent (1 o 2, òbviament).
-
-```html
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Exercici ?</title>
-
-    <!-- Include Bootstrap HTML, CSS and JS library -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-  </head>
-  ```
-
   - Esborra el codi html d'aquest fitxer, `README.md`, de forma que aquest
     punt quedi a continuació de l'anterior (sense línies en blanc entre mig
     d'ambdós).
